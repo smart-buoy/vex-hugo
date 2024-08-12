@@ -102,6 +102,45 @@ subscription:
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder: "Your Email Address Here"
 
+team:
+  enable: true
+  title: "Meet Our Team"
+  team_member:
+    # team member loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      social:
+        # social item loop
+        - icon: "tf-ion-social-facebook"
+          link: "#/"
+
+
+    # team member loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      social:
+        # social item loop
+        - icon: "tf-ion-social-facebook"
+          link: "#/"
+
+    # team member loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      social:
+        # social item loop
+        - icon: "tf-ion-social-facebook"
+          link: "#/"
+
+partner:
+  enable: true
+  title: "Our Partners"
+  partner_item:
+    - name: Tech2B
+      image: "images/partner/partner-1.png"
+
 ############################## Testimonial ##########################
 testimonial:
   enable: true

@@ -77,6 +77,9 @@ weight = 1
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
+[Languages.en.params]
+description = "EN DESCR"
+keywords = "EN KEY, KEY"
 
 ###################################### Navigation english ######################################
 
@@ -138,6 +141,9 @@ weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
+[Languages.fr.params]
+description = "FR DESCR"
+keywords = "FR KEY, KEY"
 
 ###################################### Navigation english ######################################
 
